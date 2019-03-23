@@ -1,7 +1,7 @@
 # file-storage-zome
 A zome that can be mixed in to any DNA to provide basic file storage capabilities. 
 
-This aims to be a community maintained project.
+This aims to be a community maintained project and will receive support but minimal contributions from the dev team 
 
 ## Requirements
 
