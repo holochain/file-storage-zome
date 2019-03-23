@@ -36,3 +36,14 @@ The javascript interface should expose higher level functions to the end user su
 - `storeFile(bytes: UInt8Array): string | Error` - returns the address of the manifest as a string
 - `getFile(address: string): UInt8Array | Error` - given the manifest address returns the restructured chunks
 
+## Contributing
+
+We follow the "fork-and-pull" Git workflow.
+
+    Fork the repo on GitHub
+    Clone the project to your own machine
+    Commit changes to your own branch
+    Push your work back up to your fork
+    Submit a Pull request so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request
