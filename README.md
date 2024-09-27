@@ -1,3 +1,5 @@
+NB: This is an out of date zome
+
 # file-storage-zome
 A zome that can be mixed in to any DNA to provide basic file storage capabilities. 
 
