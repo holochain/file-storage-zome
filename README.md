@@ -1,4 +1,4 @@
-NB: This is an out of date zome
+**NB:** This is an out of date zome, please see the [holochain-open-dev/file-storage repo](https://github.com/holochain-open-dev/file-storage)
 
 # file-storage-zome
 A zome that can be mixed in to any DNA to provide basic file storage capabilities. 
